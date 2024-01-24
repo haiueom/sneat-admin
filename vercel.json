@@ -1,5 +1,5 @@
 {
     "buildCommand": "npx browserslist@latest --update-db && yarn --openssl-legacy-provider build:prod",
     "installCommand": "yarn install && yarn global add gulp-cli",
-    "outputDirectory": "build"
+    "outputDirectory": "./build"
 }
