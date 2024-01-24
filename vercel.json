@@ -1,4 +1,4 @@
 {
-    "buildCommand": "npx browserslist@latest --update-db && yarn build:prod",
+    "buildCommand": "npx browserslist@latest && yarn build:prod",
     "installCommand": "yarn install"
 }
