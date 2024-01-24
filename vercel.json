@@ -1,5 +1,5 @@
 {
-    "buildCommand": "npx browserslist@latest --update-db && npx gulp build --env=production",
+    "buildCommand": "npx browserslist@latest && npx gulp build --env=production",
     "installCommand": "yarn",
     "outputDirectory": "/"
 }
