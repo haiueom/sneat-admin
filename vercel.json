@@ -1,5 +1,0 @@
-{
-    "buildCommand": "npx gulp build --env=production",
-    "installCommand": "yarn",
-    "outputDirectory": "/"
-}
