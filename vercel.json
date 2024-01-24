@@ -1,5 +1,5 @@
 {
     "buildCommand": "npx browserslist@latest --update-db && yarn --openssl-legacy-provider build:prod",
     "installCommand": "yarn",
-    "outputDirectory": "build"
+    "outputDirectory": "/"
 }
