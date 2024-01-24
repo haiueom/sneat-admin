@@ -24,8 +24,7 @@
     "admin-dashboard",
     "webapp",
     "bootstrap5",
-    "themeselection",
-    "freebies"
+    "themeselection"
   ],
   "scripts": {
     "build": "npx gulp build",
