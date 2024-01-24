@@ -1,4 +1,4 @@
 {
-    "buildCommand": "npx browserslist@latest && yarn build",
+    "buildCommand": "npx browserslist@latest --update-db && yarn build",
     "installCommand": "yarn install && yarn add caniuse-lite"
 }
